@@ -8,7 +8,7 @@ cuscmvo
 - c
 - **f**
   
-  ```r
+  ```
     proc template;   
 	  define statgraph mean_se; 
     	begingraph;  
